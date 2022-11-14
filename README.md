@@ -18,7 +18,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/28/0c/98280c9ae6e97b29681fccbf04e57117.gif"> -->
 <h3 align="left">Connect with me:  </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-mahajan-7265b51a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-mahajan-7265b51a3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-mahajan-7265b51a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-mahajan-7265b51a3" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham.shubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham.shubs" height="30" width="40" /></a> 
  <a href="shubhammahajan500@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="shubham.shubs" height="30" width="40" /></a> 
 </p>
