@@ -12,7 +12,7 @@
 
 - 💞️ I’m looking to collaborate on all topics related to **Data Science, Machine Learning and Artificial Intellegence.**
 
-- 💬 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
+- 💬 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning **Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning**
 
 - 📫 You can reach me on my email id **shubhammahajan500@gmail.com**
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/28/0c/98280c9ae6e97b29681fccbf04e57117.gif"> -->
