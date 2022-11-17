@@ -27,8 +27,8 @@
 
 <img align="center" alt="Coding" width="800" src="https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammshubs&show_icons=true&locale=en&layout=compact" alt="shubhammshubs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammshubs&show_icons=true&locale=en&layout=compact" alt="shubhammshubs" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubhammshubs&show_icons=true&locale=en" alt="shubhammshubs" </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammshubs&show_icons=true&locale=en" alt="shubhammshubs" </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammshubs&" alt="shubhammshubs" /></p>
