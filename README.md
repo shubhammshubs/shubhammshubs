@@ -20,6 +20,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-mahajan-7265b51a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-mahajan-7265b51a3" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham.shubs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham.shubs" height="30" width="40" /></a>  <a href="mailto:shubhammahajan500@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+  
+</p>
+<h3 align="left">Check out my Resume:  </h3>
+<p align="left">
+<a href="https://github.com/shubhammshubs/resume/blob/main/Shubham's%20Resume%20(3).pdf" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.lyXd0humrEprnVJ3RdTBLAD6D6&pid=Api&P=0" alt="Resume" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
