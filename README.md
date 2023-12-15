@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence **Data Science, Machine Learning and Artificial Intelligence**
+- 👀 I’m interested in **Data Science, Android Development, Machine Learning and Artificial Intelligence**
 
 - 🔭 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💞️ I’m looking to collaborate on all topics related to **Data Science, Machine Learning and Artificial Intellegence.**
+- 💞️ I’m looking to collaborate on all topics related to **Android Development, Data Science, Machine Learning and Artificial Intellegence.**
 
-- 💬 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning **Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning**
+- 💬 I’m currently mastering **Python, Java, Dart, Flutter  Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning,**
 
 - 📫 You can reach me on my email id **shubhammahajan500@gmail.com**
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/28/0c/98280c9ae6e97b29681fccbf04e57117.gif"> -->
